@@ -4,6 +4,8 @@
 **By Prachi Agarwal**
 [linkedin.com/in/prachiagarwal66](https://www.linkedin.com/in/prachiagarwal66)
 
+**[Live Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/prachi.agarwal3311/viz/RetailTechSupport-RepeatVisitAnalysis/RetailTechSupportWhereAreWeLosingTimeandWhy)** · **[SQL Queries](./analysis_queries.sql)** · **[Python Scripts](./03_analysis_and_charts.py)**
+
 ---
 
 ### A Note on the Data
@@ -131,7 +133,11 @@ To make this analysis usable for a real team, I built an interactive Tableau das
 
 The dashboard is designed to answer, at a glance: where is the team losing time, is the problem getting better or worse, and is it isolated to one location or spread across the business.
 
-**[View the interactive dashboard on Tableau Public]()** *(add your link once published)*
+[![Dashboard preview](./chart_repeat_rate_by_issue.png)](https://public.tableau.com/app/profile/prachi.agarwal3311/viz/RetailTechSupport-RepeatVisitAnalysis/RetailTechSupportWhereAreWeLosingTimeandWhy)
+
+**[Click here to explore the live, interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/prachi.agarwal3311/viz/RetailTechSupport-RepeatVisitAnalysis/RetailTechSupportWhereAreWeLosingTimeandWhy)**
+
+The dashboard is fully interactive. Click any store name to filter every chart down to that location, or hover over any bar for exact figures.
 
 ---
 
